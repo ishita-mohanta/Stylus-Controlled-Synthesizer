@@ -5,3 +5,17 @@ This project highlights the creation of a stylus-controlled analog synthesizer c
 Employing potentiometers as voltage dividers and a stylus for direct signal selection, it drives a 555 timer-based oscillator to produce variable tones. 
 Emulating a voltage-controlled oscillator (VCO), the circuit illustrates major concepts of analog electronics and frequency modulation. 
 Though with fewer components, the system clearly demonstrates analog signal modulation, selection, and sound synthesis and hence serves as a mini and tutorial device for studying analog communication principles.
+## Features
+No microcontroller required: Fully analog design on a breadboard.
+
+Stylus-based control: Direct signal selection using a conductive stylus.
+
+555 timer oscillator: Generates variable tones emulating a VCO.
+
+Potentiometer tuning: Adjusts voltage levels for tone variation.
+
+Hands-on learning tool: Demonstrates analog modulation and synthesis.
+
+Compact prototype: Uses minimal components to achieve functional sound output.
+
+Educational value: Ideal for exploring analog communication and electronics principles.
